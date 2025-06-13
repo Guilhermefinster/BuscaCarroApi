@@ -25,7 +25,7 @@ function Footer() {
           © {new Date().getFullYear()} Catálogo de Carros. Todos os direitos reservados.
         </Typography>
         <Box sx={{ mt: 2 }}>
-          <Link href="https://github.com/SeuUsuario/SeuRepositorio" target="_blank" rel="noopener" color="inherit" sx={{ mx: 1 }}>
+          <Link href="https://github.com/Guilhermefinster" target="_blank" rel="noopener" color="inherit" sx={{ mx: 1 }}>
             <GitHubIcon sx={{ fontSize: 24, '&:hover': { color: 'primary.light' } }} />
           </Link>
           {/* Adicione outros links de redes sociais ou contato aqui */}
